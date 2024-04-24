@@ -1,0 +1,4 @@
+{
+  "pathParameters": { "string1": "hello",
+					  "string2": "world" }
+}
