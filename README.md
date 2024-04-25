@@ -1,6 +1,7 @@
 A full example of a serverless function which uses the serverless.NativeAOT template. Uses the Lambda Annotations Framework, 
 dependancy injections, API gateway Http API v2, an example request, and a prj structure that should be familiar to people who 
-have worked with dotnet MVC/web API. Check out the linked resources to understand how to test and deploy this using Visual Studio. 
+have worked with dotnet MVC/web API. Check out the linked resources to understand how to test with the lambda mock test tool 
+and deploy this using Visual Studio. 
 
 Resources:
 
